@@ -1,0 +1,7 @@
+AREA_TITLE,PRIM_STATE,NAICS_TITLE,OCC_CODE,OCC_TITLE,SHORT_TITLE,TOT_EMP,JOBS_1000,LOC_QUOTIENT,A_MEAN,A_MEDIAN,A_PCT10,A_PCT25,A_PCT75,A_PCT90
+U.S.,US,Cross-industry,15-1252,Software Developers,Software Developers,1656880.0,,,138110.0,132270.0,77020.0,101200.0,167540.0,208620.0
+U.S.,US,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,498810.0,,,110800.0,103800.0,63230.0,80380.0,132580.0,165700.0
+U.S.,US,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,203040.0,,,108460.0,101800.0,58740.0,78470.0,130630.0,164520.0
+U.S.,US,Cross-industry,15-2051,Data Scientists,Data Scientists,192710.0,,,119040.0,108020.0,61070.0,79810.0,147670.0,184090.0
+U.S.,US,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,117880.0,,,95600.0,83640.0,52930.0,66250.0,115190.0,148920.0
+U.S.,US,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,35210.0,,,157160.0,145080.0,81450.0,109990.0,185160.0,233110.0

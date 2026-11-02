@@ -1,0 +1,293 @@
+AREA_TITLE,PRIM_STATE,NAICS_TITLE,OCC_CODE,OCC_TITLE,SHORT_TITLE,TOT_EMP,JOBS_1000,LOC_QUOTIENT,A_MEAN,A_MEDIAN,A_PCT10,A_PCT25,A_PCT75,A_PCT90
+Alabama,AL,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,5950.0,2.897,0.88,108520.0,102560.0,63980.0,79490.0,132280.0,167130.0
+Alaska,AK,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,430.0,1.382,0.42,88210.0,86720.0,50620.0,61180.0,109460.0,127110.0
+Arizona,AZ,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,11860.0,3.788,1.15,100510.0,100280.0,49170.0,69100.0,128070.0,143660.0
+Arkansas,AR,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,2620.0,2.064,0.63,84330.0,77210.0,54040.0,60900.0,98670.0,128020.0
+California,CA,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,49930.0,2.782,0.85,129420.0,124370.0,75520.0,96750.0,157170.0,185460.0
+Colorado,CO,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,9290.0,3.28,1.0,118340.0,105980.0,80340.0,99280.0,135200.0,168770.0
+Connecticut,CT,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,6610.0,3.978,1.21,107670.0,103830.0,66940.0,84570.0,126780.0,146660.0
+Delaware,DE,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,2660.0,5.658,1.72,131620.0,113060.0,75920.0,89410.0,143990.0,178930.0
+District of Columbia,DC,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,2310.0,3.293,1.0,120030.0,103960.0,81430.0,86200.0,134410.0,164170.0
+Florida,FL,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,32760.0,3.424,1.04,106050.0,99770.0,54480.0,75520.0,128680.0,163270.0
+Georgia,GA,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,12240.0,2.573,0.78,105820.0,100120.0,60900.0,78470.0,130470.0,158630.0
+Hawaii,HI,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,1440.0,2.34,0.71,93230.0,87980.0,60380.0,72070.0,105990.0,124530.0
+Idaho,ID,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,1910.0,2.325,0.71,91360.0,80960.0,57110.0,67550.0,110030.0,132160.0
+Illinois,IL,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,20570.0,3.422,1.04,101970.0,99470.0,59530.0,79030.0,124980.0,144880.0
+Indiana,IN,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,10900.0,3.454,1.05,96610.0,92310.0,59850.0,74210.0,117810.0,139470.0
+Iowa,IA,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,4770.0,3.088,0.94,95380.0,91040.0,61370.0,76170.0,111270.0,132520.0
+Kansas,KS,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,5970.0,4.228,1.29,100410.0,102180.0,56030.0,76120.0,126250.0,141230.0
+Kentucky,KY,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,4120.0,2.098,0.64,83040.0,80980.0,41640.0,57910.0,101280.0,127960.0
+Louisiana,LA,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,2430.0,1.314,0.4,85530.0,82660.0,50060.0,64790.0,99270.0,118290.0
+Maine,ME,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,2420.0,3.893,1.19,89380.0,81810.0,61280.0,72700.0,101810.0,125840.0
+Maryland,MD,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,13800.0,5.153,1.57,118460.0,111100.0,67460.0,84140.0,144740.0,174510.0
+Massachusetts,MA,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,14070.0,3.861,1.18,124870.0,111890.0,77340.0,92250.0,146510.0,175650.0
+Michigan,MI,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,15000.0,3.449,1.05,101510.0,100100.0,63350.0,79060.0,120060.0,140050.0
+Minnesota,MN,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,12180.0,4.227,1.29,108940.0,106930.0,67610.0,84960.0,129850.0,147790.0
+Mississippi,MS,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,1610.0,1.4,0.43,87750.0,80020.0,45170.0,61440.0,105090.0,127570.0
+Missouri,MO,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,7860.0,2.731,0.83,97650.0,96660.0,48230.0,71650.0,121580.0,145020.0
+Montana,MT,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,580.0,1.155,0.35,82260.0,82020.0,43550.0,63700.0,96990.0,117340.0
+Nebraska,NE,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,3570.0,3.567,1.09,90330.0,82710.0,60240.0,77200.0,100610.0,128230.0
+Nevada,NV,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,1920.0,1.295,0.39,107380.0,100780.0,58010.0,75880.0,121660.0,144930.0
+New Hampshire,NH,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,2450.0,3.634,1.11,111470.0,105850.0,72550.0,83890.0,132110.0,154740.0
+New Jersey,NJ,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,14970.0,3.563,1.08,126240.0,123190.0,70640.0,94710.0,157660.0,179530.0
+New Mexico,NM,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,2480.0,2.937,0.89,95890.0,88440.0,52620.0,68610.0,114560.0,149100.0
+New York,NY,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,19760.0,2.104,0.64,116560.0,107510.0,65460.0,83130.0,137240.0,174570.0
+North Carolina,NC,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,26220.0,5.468,1.66,111580.0,105770.0,63250.0,82170.0,133480.0,162830.0
+North Dakota,ND,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,190.0,0.453,0.14,100680.0,93880.0,71540.0,79010.0,120110.0,142340.0
+Ohio,OH,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,16530.0,3.023,0.92,99260.0,95400.0,63670.0,74760.0,119870.0,143470.0
+Oklahoma,OK,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,3320.0,1.997,0.61,103460.0,99590.0,55000.0,75950.0,132930.0,159990.0
+Oregon,OR,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,4760.0,2.449,0.75,118410.0,112990.0,80200.0,95450.0,131310.0,165040.0
+Pennsylvania,PA,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,19630.0,3.3,1.0,93040.0,83460.0,59230.0,70810.0,109050.0,139300.0
+Rhode Island,RI,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,1590.0,3.258,0.99,113490.0,107140.0,73080.0,82600.0,134630.0,164220.0
+South Carolina,SC,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,7720.0,3.474,1.06,102270.0,92990.0,54000.0,72720.0,118460.0,159580.0
+South Dakota,SD,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,1010.0,2.27,0.69,99350.0,92290.0,66020.0,78090.0,115690.0,146200.0
+Tennessee,TN,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,8460.0,2.629,0.8,98630.0,94490.0,57970.0,74670.0,121020.0,148820.0
+Texas,TX,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,50680.0,3.738,1.14,115240.0,107200.0,64320.0,81610.0,136490.0,169320.0
+Utah,UT,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,2960.0,1.766,0.54,97020.0,90650.0,61480.0,76460.0,112240.0,134620.0
+Virginia,VA,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,23830.0,5.985,1.82,115820.0,108350.0,66630.0,83650.0,136820.0,168680.0
+Washington,WA,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,20060.0,5.738,1.75,132760.0,128710.0,79340.0,97490.0,161100.0,197950.0
+West Virginia,WV,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,1190.0,1.723,0.52,97420.0,98090.0,50610.0,65780.0,112670.0,170600.0
+Wisconsin,WI,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,8460.0,2.932,0.89,96220.0,89980.0,61840.0,75870.0,108090.0,137150.0
+Wyoming,WY,Cross-industry,15-1211,Computer Systems Analysts,Computer Systems Analysts,240.0,0.888,0.27,111340.0,106540.0,43740.0,63690.0,144750.0,198190.0
+Alabama,AL,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,480.0,0.235,1.01,105360.0,102250.0,54920.0,72320.0,130040.0,146900.0
+Arizona,AZ,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,360.0,0.114,0.49,147500.0,134910.0,88700.0,123130.0,163080.0,210410.0
+California,CA,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,7560.0,0.421,1.82,187420.0,175530.0,95210.0,137110.0,213150.0,239200.0
+Colorado,CO,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,350.0,0.125,0.54,132070.0,126840.0,88630.0,103810.0,146120.0,173300.0
+Connecticut,CT,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,50.0,0.03,0.13,126070.0,112580.0,84990.0,98420.0,136510.0,206400.0
+District of Columbia,DC,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,300.0,0.431,1.86,145620.0,145780.0,96180.0,119330.0,172060.0,189490.0
+Florida,FL,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,1160.0,0.121,0.52,131680.0,118190.0,77000.0,96990.0,155200.0,205650.0
+Georgia,GA,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,620.0,0.13,0.56,92530.0,83600.0,65850.0,74340.0,108160.0,128020.0
+Hawaii,HI,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,110.0,0.181,0.78,137720.0,133160.0,92210.0,119520.0,140070.0,145930.0
+Idaho,ID,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,,,,175360.0,163660.0,121590.0,163660.0,210530.0,210530.0
+Illinois,IL,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,190.0,0.032,0.14,115410.0,116450.0,69280.0,86610.0,134110.0,147690.0
+Indiana,IN,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,680.0,0.216,0.93,88770.0,82360.0,64810.0,65180.0,105800.0,128020.0
+Iowa,IA,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,40.0,0.028,0.12,102710.0,110510.0,67160.0,72320.0,113620.0,113680.0
+Kansas,KS,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,60.0,0.042,0.18,119470.0,104690.0,81940.0,104690.0,137210.0,156920.0
+Kentucky,KY,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,210.0,0.108,0.47,107290.0,116250.0,81330.0,97250.0,116250.0,116250.0
+Louisiana,LA,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,110.0,0.062,0.27,106560.0,112110.0,73800.0,90080.0,121470.0,128020.0
+Maryland,MD,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,2310.0,0.862,3.72,142570.0,145600.0,89400.0,115730.0,172060.0,183500.0
+Massachusetts,MA,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,,,,178820.0,170020.0,132430.0,140730.0,190470.0,222510.0
+Michigan,MI,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,270.0,0.061,0.27,119800.0,112330.0,63390.0,63390.0,158760.0,177600.0
+Minnesota,MN,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,50.0,0.016,0.07,130440.0,116810.0,86790.0,106600.0,154930.0,186080.0
+Mississippi,MS,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,290.0,0.253,1.09,111450.0,111110.0,71760.0,83260.0,139300.0,151300.0
+Missouri,MO,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,510.0,0.177,0.76,133200.0,108380.0,63690.0,82570.0,155550.0,234010.0
+Nebraska,NE,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,30.0,0.034,0.15,107030.0,101990.0,71740.0,83700.0,119020.0,156280.0
+Nevada,NV,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,60.0,0.042,0.18,124620.0,126840.0,81160.0,92480.0,164530.0,164790.0
+New Hampshire,NH,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,150.0,0.223,0.96,137070.0,131540.0,99670.0,102800.0,164950.0,206790.0
+New Jersey,NJ,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,1200.0,0.286,1.23,134260.0,129950.0,67060.0,96540.0,163510.0,204140.0
+New Mexico,NM,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,,,,170070.0,172190.0,135940.0,135940.0,172190.0,222410.0
+New York,NY,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,740.0,0.079,0.34,158440.0,151470.0,83240.0,114670.0,190180.0,219580.0
+North Carolina,NC,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,370.0,0.078,0.34,122750.0,105180.0,73650.0,81300.0,145500.0,215010.0
+Ohio,OH,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,170.0,0.031,0.14,119540.0,123010.0,84430.0,94310.0,134430.0,156330.0
+Oklahoma,OK,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,490.0,0.296,1.28,95430.0,90600.0,67970.0,74650.0,112070.0,128020.0
+Oregon,OR,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,790.0,0.408,1.76,178790.0,160140.0,137130.0,142000.0,183830.0,239200.0
+Pennsylvania,PA,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,460.0,0.077,0.33,147580.0,118870.0,76880.0,93910.0,168930.0,233340.0
+Rhode Island,RI,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,460.0,0.935,4.03,119640.0,122030.0,79410.0,91980.0,144020.0,156120.0
+South Carolina,SC,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,470.0,0.209,0.9,111350.0,114400.0,72330.0,86960.0,128020.0,140400.0
+Tennessee,TN,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,70.0,0.022,0.1,145310.0,120090.0,103950.0,110940.0,197420.0,212830.0
+Texas,TX,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,1580.0,0.116,0.5,139340.0,129690.0,72030.0,99570.0,168970.0,226930.0
+Utah,UT,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,810.0,0.485,2.09,99050.0,88610.0,69280.0,74340.0,117020.0,130490.0
+Virginia,VA,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,2340.0,0.587,2.53,145860.0,143750.0,89320.0,114190.0,176050.0,207780.0
+Washington,WA,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,2940.0,0.841,3.63,202910.0,218180.0,112680.0,162080.0,233110.0,239200.0
+West Virginia,WV,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,50.0,0.068,0.29,180940.0,167480.0,79460.0,105000.0,199020.0,239200.0
+Wisconsin,WI,Cross-industry,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,40.0,0.015,0.06,130800.0,150700.0,70910.0,100000.0,154010.0,171930.0
+Alabama,AL,Cross-industry,15-1252,Software Developers,Software Developers,17130.0,8.346,0.76,110630.0,102730.0,61520.0,78480.0,134310.0,169070.0
+Alaska,AK,Cross-industry,15-1252,Software Developers,Software Developers,280.0,0.893,0.08,145630.0,151400.0,87260.0,108720.0,176450.0,194380.0
+Arizona,AZ,Cross-industry,15-1252,Software Developers,Software Developers,38540.0,12.313,1.13,128040.0,123180.0,78450.0,95200.0,145280.0,176440.0
+Arkansas,AR,Cross-industry,15-1252,Software Developers,Software Developers,5650.0,4.442,0.41,88130.0,92140.0,29390.0,58150.0,112260.0,133220.0
+California,CA,Cross-industry,15-1252,Software Developers,Software Developers,304390.0,16.961,1.55,173780.0,168660.0,103240.0,135280.0,209910.0,226670.0
+Colorado,CO,Cross-industry,15-1252,Software Developers,Software Developers,45270.0,15.985,1.47,145420.0,134960.0,86560.0,105510.0,167320.0,206430.0
+Connecticut,CT,Cross-industry,15-1252,Software Developers,Software Developers,18380.0,11.069,1.01,128450.0,125080.0,78030.0,99690.0,157440.0,186430.0
+Delaware,DE,Cross-industry,15-1252,Software Developers,Software Developers,4850.0,10.333,0.95,131650.0,131690.0,91680.0,108110.0,152440.0,174800.0
+District of Columbia,DC,Cross-industry,15-1252,Software Developers,Software Developers,8470.0,12.071,1.11,146060.0,140360.0,95670.0,121150.0,169200.0,198070.0
+Florida,FL,Cross-industry,15-1252,Software Developers,Software Developers,86550.0,9.046,0.83,120490.0,122310.0,64830.0,89050.0,143870.0,172120.0
+Georgia,GA,Cross-industry,15-1252,Software Developers,Software Developers,51960.0,10.92,1.0,125290.0,127070.0,69410.0,96820.0,150960.0,174250.0
+Hawaii,HI,Cross-industry,15-1252,Software Developers,Software Developers,2740.0,4.439,0.41,113860.0,104860.0,47150.0,79680.0,139370.0,174150.0
+Idaho,ID,Cross-industry,15-1252,Software Developers,Software Developers,5910.0,7.188,0.66,135000.0,102700.0,45580.0,76690.0,136410.0,176180.0
+Illinois,IL,Cross-industry,15-1252,Software Developers,Software Developers,56290.0,9.363,0.86,123700.0,126200.0,71980.0,97630.0,150380.0,169600.0
+Indiana,IN,Cross-industry,15-1252,Software Developers,Software Developers,13440.0,4.259,0.39,110580.0,105740.0,67960.0,83530.0,129720.0,153860.0
+Iowa,IA,Cross-industry,15-1252,Software Developers,Software Developers,9730.0,6.301,0.58,110280.0,105920.0,67600.0,86060.0,130320.0,148510.0
+Kansas,KS,Cross-industry,15-1252,Software Developers,Software Developers,14490.0,10.263,0.94,110520.0,104250.0,63470.0,79620.0,132320.0,161780.0
+Kentucky,KY,Cross-industry,15-1252,Software Developers,Software Developers,5800.0,2.955,0.27,106070.0,103030.0,66950.0,83990.0,127540.0,150960.0
+Louisiana,LA,Cross-industry,15-1252,Software Developers,Software Developers,3960.0,2.14,0.2,128980.0,104840.0,66360.0,80370.0,125330.0,154330.0
+Maine,ME,Cross-industry,15-1252,Software Developers,Software Developers,3220.0,5.181,0.47,117150.0,113190.0,67520.0,85740.0,142990.0,178570.0
+Maryland,MD,Cross-industry,15-1252,Software Developers,Software Developers,30700.0,11.465,1.05,150740.0,138050.0,86200.0,108380.0,174050.0,216800.0
+Massachusetts,MA,Cross-industry,15-1252,Software Developers,Software Developers,59960.0,16.458,1.51,146580.0,137130.0,88460.0,110150.0,169960.0,204740.0
+Michigan,MI,Cross-industry,15-1252,Software Developers,Software Developers,44140.0,10.152,0.93,108080.0,103830.0,62190.0,81340.0,131700.0,157360.0
+Minnesota,MN,Cross-industry,15-1252,Software Developers,Software Developers,38570.0,13.387,1.23,120210.0,125380.0,76490.0,96650.0,141800.0,165930.0
+Mississippi,MS,Cross-industry,15-1252,Software Developers,Software Developers,3090.0,2.689,0.25,89940.0,85190.0,38520.0,57900.0,122950.0,137290.0
+Missouri,MO,Cross-industry,15-1252,Software Developers,Software Developers,18450.0,6.415,0.59,107980.0,104600.0,57100.0,77560.0,132700.0,158970.0
+Montana,MT,Cross-industry,15-1252,Software Developers,Software Developers,2370.0,4.73,0.43,131380.0,109270.0,68480.0,83030.0,164060.0,208890.0
+Nebraska,NE,Cross-industry,15-1252,Software Developers,Software Developers,8270.0,8.263,0.76,112340.0,109800.0,72540.0,89530.0,133940.0,141550.0
+Nevada,NV,Cross-industry,15-1252,Software Developers,Software Developers,5030.0,3.395,0.31,133490.0,125590.0,76490.0,96450.0,168240.0,218060.0
+New Hampshire,NH,Cross-industry,15-1252,Software Developers,Software Developers,9250.0,13.706,1.26,128440.0,128860.0,77970.0,91500.0,161130.0,186560.0
+New Jersey,NJ,Cross-industry,15-1252,Software Developers,Software Developers,54570.0,12.986,1.19,134970.0,131680.0,78110.0,102770.0,164150.0,191820.0
+New Mexico,NM,Cross-industry,15-1252,Software Developers,Software Developers,4270.0,5.048,0.46,125860.0,126560.0,70930.0,88620.0,162330.0,185130.0
+New York,NY,Cross-industry,15-1252,Software Developers,Software Developers,105460.0,11.228,1.03,150020.0,145470.0,81150.0,107110.0,176700.0,215730.0
+North Carolina,NC,Cross-industry,15-1252,Software Developers,Software Developers,58620.0,12.226,1.12,130970.0,130620.0,79280.0,103050.0,154630.0,179570.0
+North Dakota,ND,Cross-industry,15-1252,Software Developers,Software Developers,1840.0,4.399,0.4,106870.0,100980.0,62210.0,80780.0,122410.0,153520.0
+Ohio,OH,Cross-industry,15-1252,Software Developers,Software Developers,42250.0,7.725,0.71,112610.0,107560.0,71250.0,84670.0,132790.0,159250.0
+Oklahoma,OK,Cross-industry,15-1252,Software Developers,Software Developers,7670.0,4.609,0.42,111100.0,104030.0,60350.0,80280.0,139810.0,164330.0
+Oregon,OR,Cross-industry,15-1252,Software Developers,Software Developers,21650.0,11.139,1.02,131310.0,130000.0,78230.0,99980.0,160080.0,182170.0
+Pennsylvania,PA,Cross-industry,15-1252,Software Developers,Software Developers,41300.0,6.943,0.64,117110.0,111910.0,72010.0,88090.0,135100.0,166120.0
+Rhode Island,RI,Cross-industry,15-1252,Software Developers,Software Developers,5460.0,11.177,1.02,135030.0,128990.0,81460.0,104310.0,159120.0,200990.0
+South Carolina,SC,Cross-industry,15-1252,Software Developers,Software Developers,11810.0,5.312,0.49,116790.0,111130.0,62870.0,82530.0,140380.0,182350.0
+South Dakota,SD,Cross-industry,15-1252,Software Developers,Software Developers,2240.0,5.039,0.46,94500.0,82850.0,52400.0,65870.0,105520.0,162690.0
+Tennessee,TN,Cross-industry,15-1252,Software Developers,Software Developers,16560.0,5.144,0.47,113410.0,110660.0,67650.0,90160.0,130910.0,157480.0
+Texas,TX,Cross-industry,15-1252,Software Developers,Software Developers,138510.0,10.216,0.94,125890.0,127000.0,72210.0,97830.0,155160.0,173360.0
+Utah,UT,Cross-industry,15-1252,Software Developers,Software Developers,25930.0,15.448,1.42,121260.0,116830.0,65330.0,86280.0,143470.0,172230.0
+Vermont,VT,Cross-industry,15-1252,Software Developers,Software Developers,1710.0,5.678,0.52,120030.0,112620.0,71040.0,89150.0,130000.0,197570.0
+Virginia,VA,Cross-industry,15-1252,Software Developers,Software Developers,86680.0,21.773,2.0,139920.0,135040.0,79360.0,104790.0,168850.0,205820.0
+Washington,WA,Cross-industry,15-1252,Software Developers,Software Developers,89110.0,25.492,2.34,159990.0,162390.0,96890.0,130350.0,196260.0,219280.0
+West Virginia,WV,Cross-industry,15-1252,Software Developers,Software Developers,1890.0,2.742,0.25,94080.0,81380.0,59290.0,66720.0,110990.0,142000.0
+Wisconsin,WI,Cross-industry,15-1252,Software Developers,Software Developers,21800.0,7.555,0.69,107500.0,102660.0,60840.0,81540.0,127500.0,157650.0
+Wyoming,WY,Cross-industry,15-1252,Software Developers,Software Developers,670.0,2.453,0.22,127790.0,137860.0,70910.0,91820.0,147910.0,161200.0
+Alabama,AL,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,1850.0,0.9,0.67,101520.0,94530.0,63500.0,78340.0,128510.0,142510.0
+Alaska,AK,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,,,,107600.0,99650.0,99650.0,99650.0,131830.0,131830.0
+Arizona,AZ,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,3460.0,1.106,0.83,98250.0,97610.0,58950.0,77630.0,116360.0,139760.0
+California,CA,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,32940.0,1.835,1.37,132750.0,129400.0,71890.0,95520.0,162360.0,196730.0
+Colorado,CO,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,6430.0,2.269,1.7,114210.0,115940.0,71410.0,90730.0,129540.0,157830.0
+Connecticut,CT,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,1300.0,0.785,0.59,96610.0,99110.0,54130.0,76470.0,116370.0,131890.0
+Delaware,DE,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,590.0,1.255,0.94,113210.0,109650.0,57130.0,84020.0,130540.0,151130.0
+District of Columbia,DC,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,690.0,0.979,0.73,122160.0,121970.0,84860.0,90160.0,135770.0,161600.0
+Florida,FL,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,11620.0,1.214,0.91,97240.0,95690.0,53410.0,70560.0,117930.0,143290.0
+Georgia,GA,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,6060.0,1.273,0.95,99030.0,98820.0,57970.0,77480.0,121040.0,135810.0
+Hawaii,HI,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,,,,112880.0,116460.0,73480.0,95430.0,142540.0,147080.0
+Idaho,ID,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,720.0,0.872,0.65,119560.0,76720.0,33620.0,46510.0,108190.0,237830.0
+Illinois,IL,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,7700.0,1.28,0.96,94850.0,92520.0,58870.0,67080.0,112970.0,131540.0
+Indiana,IN,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,1550.0,0.49,0.37,88630.0,84630.0,54430.0,65510.0,102440.0,128170.0
+Iowa,IA,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,1320.0,0.852,0.64,86940.0,86110.0,36810.0,62280.0,103850.0,121160.0
+Kansas,KS,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,1200.0,0.849,0.63,87510.0,83970.0,52880.0,65850.0,101980.0,123380.0
+Kentucky,KY,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,1350.0,0.688,0.51,75120.0,76500.0,34660.0,47120.0,94580.0,112390.0
+Louisiana,LA,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,330.0,0.179,0.13,75070.0,69050.0,41040.0,57970.0,90270.0,125190.0
+Maine,ME,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,310.0,0.504,0.38,87090.0,83940.0,47450.0,75740.0,105790.0,116190.0
+Maryland,MD,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,7440.0,2.779,2.08,119570.0,113330.0,61410.0,85000.0,144060.0,179810.0
+Massachusetts,MA,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,6400.0,1.756,1.31,118720.0,121320.0,76390.0,95400.0,135930.0,163310.0
+Michigan,MI,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,3280.0,0.754,0.56,85160.0,82950.0,48070.0,60950.0,101690.0,122680.0
+Minnesota,MN,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,2640.0,0.916,0.69,101950.0,101630.0,66750.0,78720.0,123970.0,135200.0
+Mississippi,MS,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,430.0,0.374,0.28,85620.0,82500.0,48260.0,62650.0,102070.0,125280.0
+Missouri,MO,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,3020.0,1.048,0.78,76900.0,73910.0,39560.0,54140.0,98840.0,119000.0
+Montana,MT,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,170.0,0.345,0.26,77780.0,67460.0,54470.0,58490.0,93910.0,122700.0
+Nebraska,NE,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,1660.0,1.659,1.24,91450.0,86460.0,58930.0,75040.0,105770.0,122710.0
+Nevada,NV,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,870.0,0.589,0.44,80750.0,82000.0,48980.0,63910.0,95450.0,112740.0
+New Hampshire,NH,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,790.0,1.177,0.88,102370.0,102620.0,49130.0,76760.0,125520.0,147520.0
+New Jersey,NJ,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,6540.0,1.555,1.16,115180.0,106000.0,68000.0,88470.0,134910.0,163350.0
+New Mexico,NM,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,550.0,0.651,0.49,123060.0,98880.0,64700.0,81760.0,201010.0,207840.0
+New York,NY,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,11750.0,1.251,0.94,123920.0,111750.0,65870.0,86070.0,154660.0,186350.0
+North Carolina,NC,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,8360.0,1.743,1.3,100100.0,99320.0,49460.0,74830.0,122610.0,142820.0
+North Dakota,ND,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,150.0,0.358,0.27,81430.0,80530.0,65610.0,68870.0,91000.0,98430.0
+Ohio,OH,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,4500.0,0.822,0.62,88900.0,82550.0,57080.0,69010.0,104950.0,122680.0
+Oklahoma,OK,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,1210.0,0.729,0.54,72340.0,66560.0,40190.0,52460.0,89420.0,102900.0
+Oregon,OR,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,2170.0,1.119,0.84,97840.0,89920.0,46840.0,67170.0,127040.0,162630.0
+Pennsylvania,PA,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,5490.0,0.923,0.69,93720.0,91240.0,57560.0,70580.0,114980.0,131020.0
+Rhode Island,RI,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,320.0,0.645,0.48,101820.0,94150.0,70510.0,82840.0,126460.0,128980.0
+South Carolina,SC,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,1610.0,0.722,0.54,88310.0,84260.0,41860.0,59550.0,106850.0,136650.0
+South Dakota,SD,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,310.0,0.691,0.52,68260.0,64330.0,49830.0,55780.0,79890.0,93230.0
+Tennessee,TN,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,2320.0,0.721,0.54,84300.0,81490.0,58520.0,67880.0,90760.0,111310.0
+Texas,TX,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,22070.0,1.628,1.22,103890.0,100230.0,58270.0,78060.0,126480.0,156360.0
+Utah,UT,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,3060.0,1.824,1.36,84520.0,81230.0,41800.0,55020.0,105030.0,132980.0
+Vermont,VT,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,100.0,0.319,0.24,71230.0,66050.0,52210.0,57120.0,76480.0,97200.0
+Virginia,VA,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,9120.0,2.292,1.71,114330.0,110110.0,71840.0,88790.0,132600.0,162930.0
+Washington,WA,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,10840.0,3.102,2.32,123280.0,122480.0,58960.0,84040.0,157830.0,172710.0
+West Virginia,WV,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,360.0,0.521,0.39,63530.0,62730.0,27010.0,27880.0,95580.0,113620.0
+Wisconsin,WI,Cross-industry,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,3540.0,1.227,0.92,88280.0,82100.0,57080.0,65280.0,102410.0,131480.0
+Alabama,AL,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,570.0,0.28,0.36,112400.0,107470.0,64170.0,84940.0,137960.0,160120.0
+Alaska,AK,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,90.0,0.277,0.36,97410.0,102450.0,58500.0,87210.0,112050.0,117640.0
+Arizona,AZ,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,2600.0,0.83,1.07,79700.0,76010.0,48130.0,59630.0,97640.0,122010.0
+Arkansas,AR,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,140.0,0.108,0.14,75020.0,67720.0,46970.0,60680.0,87350.0,106760.0
+California,CA,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,20100.0,1.12,1.44,92150.0,82870.0,66210.0,71730.0,98120.0,135050.0
+Colorado,CO,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,960.0,0.338,0.44,101130.0,99470.0,61370.0,79830.0,120830.0,143000.0
+Connecticut,CT,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,1020.0,0.613,0.79,95490.0,95310.0,57890.0,75240.0,114400.0,129110.0
+Delaware,DE,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,670.0,1.436,1.85,107770.0,104220.0,61290.0,81410.0,130370.0,153220.0
+District of Columbia,DC,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,2230.0,3.177,4.09,116320.0,109990.0,62350.0,78140.0,157270.0,181650.0
+Florida,FL,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,7750.0,0.81,1.04,86260.0,78830.0,40520.0,54920.0,105700.0,138290.0
+Georgia,GA,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,4600.0,0.966,1.24,82810.0,78320.0,48770.0,59000.0,100910.0,132220.0
+Hawaii,HI,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,230.0,0.373,0.48,101520.0,102080.0,67450.0,95000.0,103650.0,136490.0
+Idaho,ID,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,430.0,0.527,0.68,84620.0,69830.0,50720.0,58160.0,98630.0,153450.0
+Illinois,IL,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,5320.0,0.886,1.14,106300.0,101880.0,64670.0,76100.0,129440.0,161660.0
+Indiana,IN,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,1660.0,0.527,0.68,88120.0,82600.0,54560.0,64000.0,104710.0,132270.0
+Iowa,IA,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,190.0,0.121,0.16,82640.0,82020.0,45590.0,55230.0,97480.0,122880.0
+Kansas,KS,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,620.0,0.437,0.56,95020.0,99990.0,59180.0,77440.0,112250.0,129880.0
+Kentucky,KY,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,1090.0,0.555,0.71,81970.0,78000.0,52110.0,64950.0,96330.0,107530.0
+Louisiana,LA,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,460.0,0.249,0.32,73900.0,67480.0,52610.0,52820.0,86060.0,115300.0
+Maine,ME,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,360.0,0.582,0.75,97810.0,93700.0,56970.0,69960.0,126040.0,133680.0
+Maryland,MD,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,3730.0,1.391,1.79,112450.0,111080.0,59580.0,76270.0,141190.0,170680.0
+Massachusetts,MA,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,3820.0,1.048,1.35,96930.0,90160.0,60040.0,73700.0,110780.0,146220.0
+Michigan,MI,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,1280.0,0.294,0.38,100240.0,91610.0,62920.0,74910.0,117550.0,154320.0
+Minnesota,MN,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,1470.0,0.512,0.66,102740.0,99010.0,65220.0,76550.0,121230.0,148050.0
+Mississippi,MS,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,160.0,0.143,0.18,84570.0,83770.0,48420.0,54500.0,108110.0,135370.0
+Missouri,MO,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,3070.0,1.068,1.38,63640.0,53600.0,40000.0,46440.0,72120.0,104180.0
+Montana,MT,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,150.0,0.299,0.38,77970.0,70230.0,63830.0,63830.0,85570.0,101590.0
+Nebraska,NE,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,280.0,0.282,0.36,90540.0,85000.0,52490.0,57180.0,111740.0,141890.0
+Nevada,NV,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,310.0,0.207,0.27,86390.0,79410.0,60340.0,68010.0,102060.0,128800.0
+New Hampshire,NH,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,340.0,0.502,0.65,91500.0,85100.0,54080.0,68400.0,110590.0,133780.0
+New Jersey,NJ,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,3890.0,0.926,1.19,108990.0,102140.0,65400.0,80060.0,128450.0,158500.0
+New Mexico,NM,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,480.0,0.565,0.73,84690.0,69760.0,46070.0,59090.0,105060.0,129270.0
+New York,NY,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,5980.0,0.636,0.82,111860.0,99480.0,56430.0,73270.0,139260.0,184020.0
+North Carolina,NC,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,2270.0,0.473,0.61,99020.0,101190.0,61410.0,66000.0,121500.0,143760.0
+North Dakota,ND,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,160.0,0.394,0.51,87970.0,82760.0,52770.0,64800.0,105900.0,132610.0
+Ohio,OH,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,3440.0,0.629,0.81,93250.0,88930.0,56290.0,65410.0,111750.0,141500.0
+Oklahoma,OK,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,1520.0,0.91,1.17,63760.0,62380.0,39610.0,51070.0,65290.0,97160.0
+Oregon,OR,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,1850.0,0.952,1.23,99080.0,97060.0,65000.0,78410.0,118510.0,135030.0
+Pennsylvania,PA,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,2420.0,0.406,0.52,82110.0,71440.0,48380.0,52920.0,102590.0,133250.0
+Rhode Island,RI,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,220.0,0.451,0.58,77740.0,59390.0,51080.0,58000.0,83370.0,134350.0
+South Carolina,SC,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,960.0,0.431,0.55,86460.0,80270.0,50560.0,65380.0,103020.0,128020.0
+Tennessee,TN,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,1500.0,0.466,0.6,79310.0,70720.0,46130.0,51430.0,101770.0,124130.0
+Texas,TX,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,11690.0,0.862,1.11,96300.0,86510.0,51970.0,62640.0,113870.0,140510.0
+Utah,UT,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,1200.0,0.714,0.92,81620.0,80180.0,44500.0,57090.0,100130.0,122050.0
+Vermont,VT,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,110.0,0.359,0.46,88690.0,81970.0,59240.0,61420.0,115130.0,128540.0
+Virginia,VA,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,7720.0,1.94,2.5,121120.0,117350.0,61030.0,85890.0,148100.0,181650.0
+Washington,WA,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,2950.0,0.843,1.09,102840.0,93740.0,64170.0,68880.0,132200.0,153390.0
+West Virginia,WV,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,230.0,0.34,0.44,70770.0,61860.0,48420.0,55140.0,83180.0,106680.0
+Wisconsin,WI,Cross-industry,15-2031,Operations Research Analysts,Operations Research Analysts,3570.0,1.238,1.6,81750.0,78320.0,52440.0,63550.0,96070.0,114970.0
+Alabama,AL,Cross-industry,15-2051,Data Scientists,Data Scientists,1120.0,0.547,0.43,99040.0,100560.0,54690.0,74450.0,118130.0,145250.0
+Alaska,AK,Cross-industry,15-2051,Data Scientists,Data Scientists,200.0,0.638,0.5,91710.0,80000.0,51130.0,64160.0,110480.0,142920.0
+Arizona,AZ,Cross-industry,15-2051,Data Scientists,Data Scientists,3800.0,1.216,0.96,112470.0,106400.0,65310.0,80020.0,134410.0,170190.0
+Arkansas,AR,Cross-industry,15-2051,Data Scientists,Data Scientists,330.0,0.263,0.21,117250.0,115890.0,82870.0,101510.0,128490.0,159700.0
+California,CA,Cross-industry,15-2051,Data Scientists,Data Scientists,33220.0,1.851,1.46,140490.0,133690.0,68050.0,94240.0,173250.0,213080.0
+Colorado,CO,Cross-industry,15-2051,Data Scientists,Data Scientists,5910.0,2.088,1.65,120320.0,111970.0,65420.0,84320.0,136520.0,174700.0
+Connecticut,CT,Cross-industry,15-2051,Data Scientists,Data Scientists,1190.0,0.714,0.56,120480.0,112750.0,54780.0,76000.0,154940.0,196040.0
+Delaware,DE,Cross-industry,15-2051,Data Scientists,Data Scientists,530.0,1.136,0.9,130520.0,138780.0,64420.0,101680.0,160720.0,180590.0
+District of Columbia,DC,Cross-industry,15-2051,Data Scientists,Data Scientists,3100.0,4.419,3.48,128810.0,122010.0,61280.0,87840.0,170800.0,206320.0
+Florida,FL,Cross-industry,15-2051,Data Scientists,Data Scientists,8400.0,0.878,0.69,106490.0,95360.0,52180.0,68730.0,128090.0,172440.0
+Georgia,GA,Cross-industry,15-2051,Data Scientists,Data Scientists,6510.0,1.368,1.08,108010.0,100950.0,60350.0,75930.0,133930.0,164790.0
+Hawaii,HI,Cross-industry,15-2051,Data Scientists,Data Scientists,150.0,0.239,0.19,126080.0,129930.0,64620.0,93660.0,157370.0,200880.0
+Idaho,ID,Cross-industry,15-2051,Data Scientists,Data Scientists,710.0,0.867,0.68,126190.0,122280.0,73770.0,83790.0,159610.0,205640.0
+Illinois,IL,Cross-industry,15-2051,Data Scientists,Data Scientists,6320.0,1.052,0.83,115840.0,108580.0,62320.0,82000.0,137540.0,170570.0
+Indiana,IN,Cross-industry,15-2051,Data Scientists,Data Scientists,2440.0,0.772,0.61,92520.0,81620.0,52500.0,65000.0,109220.0,128340.0
+Iowa,IA,Cross-industry,15-2051,Data Scientists,Data Scientists,2270.0,1.472,1.16,98550.0,96980.0,55970.0,71140.0,120060.0,140520.0
+Kansas,KS,Cross-industry,15-2051,Data Scientists,Data Scientists,,,,107000.0,101610.0,71230.0,83210.0,127000.0,142830.0
+Kentucky,KY,Cross-industry,15-2051,Data Scientists,Data Scientists,2080.0,1.058,0.83,96290.0,88800.0,52330.0,65570.0,121700.0,153090.0
+Louisiana,LA,Cross-industry,15-2051,Data Scientists,Data Scientists,920.0,0.497,0.39,74330.0,68730.0,54640.0,64950.0,79480.0,98940.0
+Maine,ME,Cross-industry,15-2051,Data Scientists,Data Scientists,710.0,1.15,0.91,107370.0,99960.0,65370.0,80050.0,137900.0,146280.0
+Maryland,MD,Cross-industry,15-2051,Data Scientists,Data Scientists,2170.0,0.81,0.64,126020.0,125460.0,76170.0,93410.0,157260.0,174990.0
+Massachusetts,MA,Cross-industry,15-2051,Data Scientists,Data Scientists,7400.0,2.031,1.6,125100.0,121560.0,75540.0,89640.0,146990.0,185280.0
+Michigan,MI,Cross-industry,15-2051,Data Scientists,Data Scientists,4700.0,1.081,0.85,96500.0,90750.0,57790.0,72550.0,115280.0,138860.0
+Minnesota,MN,Cross-industry,15-2051,Data Scientists,Data Scientists,2240.0,0.776,0.61,118760.0,114630.0,69170.0,89940.0,143640.0,165830.0
+Mississippi,MS,Cross-industry,15-2051,Data Scientists,Data Scientists,290.0,0.253,0.2,72220.0,62600.0,34670.0,48280.0,82370.0,108230.0
+Missouri,MO,Cross-industry,15-2051,Data Scientists,Data Scientists,3850.0,1.339,1.06,88210.0,81410.0,50690.0,62290.0,106410.0,135710.0
+Montana,MT,Cross-industry,15-2051,Data Scientists,Data Scientists,90.0,0.182,0.14,101350.0,94420.0,52800.0,68520.0,105970.0,147210.0
+Nebraska,NE,Cross-industry,15-2051,Data Scientists,Data Scientists,1780.0,1.775,1.4,94960.0,92640.0,62940.0,79500.0,107450.0,129610.0
+Nevada,NV,Cross-industry,15-2051,Data Scientists,Data Scientists,980.0,0.662,0.52,96800.0,86030.0,57630.0,71420.0,112460.0,144420.0
+New Hampshire,NH,Cross-industry,15-2051,Data Scientists,Data Scientists,780.0,1.151,0.91,97330.0,92670.0,54420.0,64790.0,122780.0,153410.0
+New Jersey,NJ,Cross-industry,15-2051,Data Scientists,Data Scientists,4340.0,1.032,0.81,134140.0,130570.0,73070.0,96120.0,166410.0,198310.0
+New Mexico,NM,Cross-industry,15-2051,Data Scientists,Data Scientists,380.0,0.449,0.35,88720.0,87020.0,51620.0,63620.0,101000.0,126090.0
+New York,NY,Cross-industry,15-2051,Data Scientists,Data Scientists,16390.0,1.745,1.38,134830.0,128890.0,66870.0,86890.0,171970.0,212360.0
+North Carolina,NC,Cross-industry,15-2051,Data Scientists,Data Scientists,6640.0,1.385,1.09,125950.0,126940.0,66220.0,94720.0,155460.0,180220.0
+North Dakota,ND,Cross-industry,15-2051,Data Scientists,Data Scientists,240.0,0.567,0.45,102410.0,113620.0,59300.0,80510.0,120000.0,126480.0
+Ohio,OH,Cross-industry,15-2051,Data Scientists,Data Scientists,4660.0,0.852,0.67,97530.0,97070.0,52740.0,68790.0,123690.0,141990.0
+Oklahoma,OK,Cross-industry,15-2051,Data Scientists,Data Scientists,2130.0,1.281,1.01,93020.0,83810.0,52690.0,67660.0,116620.0,150230.0
+Oregon,OR,Cross-industry,15-2051,Data Scientists,Data Scientists,2640.0,1.36,1.07,124480.0,114910.0,64850.0,83460.0,156870.0,184090.0
+Pennsylvania,PA,Cross-industry,15-2051,Data Scientists,Data Scientists,7490.0,1.259,0.99,102370.0,97260.0,52780.0,70150.0,127440.0,160270.0
+Rhode Island,RI,Cross-industry,15-2051,Data Scientists,Data Scientists,900.0,1.848,1.46,127380.0,128350.0,75570.0,97250.0,155310.0,176820.0
+South Carolina,SC,Cross-industry,15-2051,Data Scientists,Data Scientists,2090.0,0.942,0.74,100790.0,95310.0,60600.0,74510.0,119500.0,152830.0
+South Dakota,SD,Cross-industry,15-2051,Data Scientists,Data Scientists,150.0,0.328,0.26,97940.0,91460.0,64160.0,83930.0,114030.0,133970.0
+Tennessee,TN,Cross-industry,15-2051,Data Scientists,Data Scientists,2090.0,0.648,0.51,97710.0,92400.0,35520.0,60300.0,124990.0,148580.0
+Texas,TX,Cross-industry,15-2051,Data Scientists,Data Scientists,20560.0,1.517,1.2,109000.0,100100.0,51550.0,76060.0,135310.0,167160.0
+Utah,UT,Cross-industry,15-2051,Data Scientists,Data Scientists,3530.0,2.105,1.66,101780.0,97490.0,51740.0,69180.0,127600.0,164580.0
+Vermont,VT,Cross-industry,15-2051,Data Scientists,Data Scientists,220.0,0.735,0.58,124430.0,117500.0,74890.0,80100.0,149030.0,201190.0
+Virginia,VA,Cross-industry,15-2051,Data Scientists,Data Scientists,4810.0,1.209,0.95,139080.0,136490.0,74980.0,100680.0,177460.0,211250.0
+Washington,WA,Cross-industry,15-2051,Data Scientists,Data Scientists,5640.0,1.613,1.27,148730.0,132620.0,76940.0,98590.0,176080.0,225920.0
+West Virginia,WV,Cross-industry,15-2051,Data Scientists,Data Scientists,180.0,0.266,0.21,94330.0,67660.0,45020.0,45930.0,99560.0,185190.0
+Wisconsin,WI,Cross-industry,15-2051,Data Scientists,Data Scientists,3090.0,1.07,0.84,105250.0,101850.0,67540.0,82280.0,125050.0,140980.0
+Wyoming,WY,Cross-industry,15-2051,Data Scientists,Data Scientists,,,,125330.0,130370.0,72050.0,113640.0,150900.0,151880.0

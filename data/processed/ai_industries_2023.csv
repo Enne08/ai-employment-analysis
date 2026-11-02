@@ -1,0 +1,108 @@
+AREA_TITLE,PRIM_STATE,NAICS_TITLE,OCC_CODE,OCC_TITLE,SHORT_TITLE,TOT_EMP,JOBS_1000,LOC_QUOTIENT,A_MEAN,A_MEDIAN,A_PCT10,A_PCT25,A_PCT75,A_PCT90
+U.S.,US,"Agriculture, Forestry, Fishing and Hunting",15-1211,Computer Systems Analysts,Computer Systems Analysts,50.0,,,104960.0,94450.0,65570.0,72210.0,130110.0,179440.0
+U.S.,US,"Agriculture, Forestry, Fishing and Hunting",15-1252,Software Developers,Software Developers,50.0,,,118420.0,126490.0,67600.0,102340.0,141280.0,162170.0
+U.S.,US,"Mining, Quarrying, and Oil and Gas Extraction",15-1211,Computer Systems Analysts,Computer Systems Analysts,680.0,,,117430.0,126400.0,81650.0,94370.0,133740.0,148490.0
+U.S.,US,"Mining, Quarrying, and Oil and Gas Extraction",15-1252,Software Developers,Software Developers,800.0,,,127780.0,129780.0,84950.0,106420.0,143730.0,160270.0
+U.S.,US,"Mining, Quarrying, and Oil and Gas Extraction",15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,40.0,,,121660.0,113540.0,81120.0,108320.0,154660.0,174640.0
+U.S.,US,"Mining, Quarrying, and Oil and Gas Extraction",15-2031,Operations Research Analysts,Operations Research Analysts,450.0,,,100630.0,98960.0,74840.0,83570.0,119500.0,129160.0
+U.S.,US,"Mining, Quarrying, and Oil and Gas Extraction",15-2051,Data Scientists,Data Scientists,360.0,,,111180.0,105090.0,49940.0,67320.0,147740.0,163760.0
+U.S.,US,Utilities,15-1211,Computer Systems Analysts,Computer Systems Analysts,4130.0,,,117670.0,112450.0,79150.0,93360.0,136670.0,165600.0
+U.S.,US,Utilities,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,50.0,,,128000.0,132430.0,103250.0,107350.0,133200.0,165100.0
+U.S.,US,Utilities,15-1252,Software Developers,Software Developers,2360.0,,,123740.0,126480.0,77800.0,102680.0,146080.0,169110.0
+U.S.,US,Utilities,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,250.0,,,121600.0,117410.0,78480.0,101720.0,144310.0,172560.0
+U.S.,US,Utilities,15-2031,Operations Research Analysts,Operations Research Analysts,990.0,,,100840.0,96280.0,64880.0,77220.0,120100.0,149210.0
+U.S.,US,Utilities,15-2051,Data Scientists,Data Scientists,810.0,,,108880.0,100940.0,64900.0,80000.0,133110.0,161210.0
+U.S.,US,Construction,15-1211,Computer Systems Analysts,Computer Systems Analysts,1320.0,,,81820.0,78540.0,41600.0,52720.0,105870.0,125070.0
+U.S.,US,Construction,15-1252,Software Developers,Software Developers,2800.0,,,103730.0,97450.0,64720.0,76800.0,126480.0,149120.0
+U.S.,US,Construction,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,240.0,,,94380.0,84970.0,47080.0,68660.0,114700.0,140590.0
+U.S.,US,Construction,15-2031,Operations Research Analysts,Operations Research Analysts,360.0,,,84250.0,82580.0,42180.0,62050.0,110720.0,114550.0
+U.S.,US,Construction,15-2051,Data Scientists,Data Scientists,440.0,,,83100.0,71600.0,46800.0,56800.0,102390.0,137740.0
+U.S.,US,Wholesale Trade,15-1211,Computer Systems Analysts,Computer Systems Analysts,14480.0,,,118500.0,113670.0,63910.0,81820.0,146720.0,178560.0
+U.S.,US,Wholesale Trade,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,560.0,,,174180.0,170180.0,117880.0,143440.0,205640.0,219070.0
+U.S.,US,Wholesale Trade,15-1252,Software Developers,Software Developers,60190.0,,,130620.0,128460.0,75980.0,98540.0,160510.0,184760.0
+U.S.,US,Wholesale Trade,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,6090.0,,,103420.0,98810.0,56100.0,73940.0,124990.0,157810.0
+U.S.,US,Wholesale Trade,15-2031,Operations Research Analysts,Operations Research Analysts,2760.0,,,98010.0,86410.0,56000.0,70990.0,121370.0,160260.0
+U.S.,US,Wholesale Trade,15-2051,Data Scientists,Data Scientists,6790.0,,,115740.0,108580.0,55560.0,77480.0,143930.0,179550.0
+U.S.,US,Information,15-1211,Computer Systems Analysts,Computer Systems Analysts,42710.0,,,117580.0,105440.0,60060.0,78960.0,140830.0,176310.0
+U.S.,US,Information,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,4590.0,,,228830.0,218180.0,132640.0,170780.0,239200.0,239200.0
+U.S.,US,Information,15-1252,Software Developers,Software Developers,339170.0,,,157940.0,158390.0,81280.0,116730.0,184530.0,219280.0
+U.S.,US,Information,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,40180.0,,,117610.0,108480.0,58500.0,79300.0,141480.0,171350.0
+U.S.,US,Information,15-2031,Operations Research Analysts,Operations Research Analysts,6960.0,,,105310.0,99950.0,60790.0,74260.0,129460.0,162320.0
+U.S.,US,Information,15-2051,Data Scientists,Data Scientists,22240.0,,,143180.0,135990.0,61740.0,91830.0,175420.0,218500.0
+U.S.,US,Finance and Insurance,15-1211,Computer Systems Analysts,Computer Systems Analysts,61050.0,,,111010.0,105190.0,67760.0,83830.0,132160.0,160220.0
+U.S.,US,Finance and Insurance,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,280.0,,,116580.0,124550.0,77010.0,86480.0,134160.0,147600.0
+U.S.,US,Finance and Insurance,15-1252,Software Developers,Software Developers,147320.0,,,137330.0,132900.0,86280.0,107040.0,160850.0,185000.0
+U.S.,US,Finance and Insurance,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,21020.0,,,103120.0,100580.0,62000.0,78870.0,123690.0,142090.0
+U.S.,US,Finance and Insurance,15-2031,Operations Research Analysts,Operations Research Analysts,24790.0,,,91930.0,83240.0,53760.0,62710.0,111330.0,136740.0
+U.S.,US,Finance and Insurance,15-2051,Data Scientists,Data Scientists,33620.0,,,122230.0,116730.0,66320.0,86210.0,146710.0,178650.0
+U.S.,US,Real Estate and Rental and Leasing,15-1211,Computer Systems Analysts,Computer Systems Analysts,1320.0,,,104150.0,97790.0,64640.0,79280.0,125320.0,154140.0
+U.S.,US,Real Estate and Rental and Leasing,15-1252,Software Developers,Software Developers,4420.0,,,139350.0,135000.0,84160.0,107450.0,167410.0,203390.0
+U.S.,US,Real Estate and Rental and Leasing,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,420.0,,,101830.0,96870.0,62200.0,69010.0,125880.0,161150.0
+U.S.,US,Real Estate and Rental and Leasing,15-2051,Data Scientists,Data Scientists,1230.0,,,107240.0,100000.0,57080.0,70270.0,130560.0,171430.0
+U.S.,US,"Professional, Scientific, and Technical Services",15-1211,Computer Systems Analysts,Computer Systems Analysts,164410.0,,,114450.0,104680.0,63020.0,79720.0,135680.0,172410.0
+U.S.,US,"Professional, Scientific, and Technical Services",15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,15140.0,,,166830.0,166330.0,99540.0,134550.0,190470.0,224940.0
+U.S.,US,"Professional, Scientific, and Technical Services",15-1252,Software Developers,Software Developers,718500.0,,,131070.0,128320.0,70120.0,95720.0,163910.0,201300.0
+U.S.,US,"Professional, Scientific, and Technical Services",15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,85130.0,,,104890.0,99670.0,57440.0,76550.0,127090.0,161340.0
+U.S.,US,"Professional, Scientific, and Technical Services",15-2031,Operations Research Analysts,Operations Research Analysts,22850.0,,,108500.0,101270.0,59020.0,75890.0,130360.0,168780.0
+U.S.,US,"Professional, Scientific, and Technical Services",15-2051,Data Scientists,Data Scientists,60800.0,,,121870.0,111110.0,63410.0,82740.0,154020.0,189540.0
+U.S.,US,Management of Companies and Enterprises,15-1211,Computer Systems Analysts,Computer Systems Analysts,58850.0,,,114350.0,107820.0,71150.0,85900.0,134680.0,162180.0
+U.S.,US,Management of Companies and Enterprises,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,570.0,,,149830.0,157870.0,103610.0,123260.0,179860.0,179860.0
+U.S.,US,Management of Companies and Enterprises,15-1252,Software Developers,Software Developers,86460.0,,,133280.0,131370.0,84130.0,104690.0,159840.0,176340.0
+U.S.,US,Management of Companies and Enterprises,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,11390.0,,,109160.0,103210.0,66600.0,83820.0,127040.0,155010.0
+U.S.,US,Management of Companies and Enterprises,15-2031,Operations Research Analysts,Operations Research Analysts,13140.0,,,98330.0,91670.0,46730.0,67130.0,125610.0,158080.0
+U.S.,US,Management of Companies and Enterprises,15-2051,Data Scientists,Data Scientists,19060.0,,,119870.0,114780.0,69370.0,85450.0,141950.0,168950.0
+U.S.,US,Administrative and Support and Waste Management and Remediation Services,15-1211,Computer Systems Analysts,Computer Systems Analysts,27560.0,,,112760.0,105480.0,56830.0,77320.0,137320.0,173290.0
+U.S.,US,Administrative and Support and Waste Management and Remediation Services,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,430.0,,,158950.0,155200.0,71740.0,106640.0,196110.0,236770.0
+U.S.,US,Administrative and Support and Waste Management and Remediation Services,15-1252,Software Developers,Software Developers,64460.0,,,138770.0,133290.0,78210.0,103340.0,166200.0,201610.0
+U.S.,US,Administrative and Support and Waste Management and Remediation Services,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,12370.0,,,102920.0,99840.0,50340.0,72310.0,128380.0,156000.0
+U.S.,US,Administrative and Support and Waste Management and Remediation Services,15-2031,Operations Research Analysts,Operations Research Analysts,5730.0,,,83700.0,73680.0,46000.0,48930.0,101010.0,136320.0
+U.S.,US,Administrative and Support and Waste Management and Remediation Services,15-2051,Data Scientists,Data Scientists,12310.0,,,106100.0,95410.0,49980.0,66400.0,132430.0,170840.0
+U.S.,US,Educational Services,15-1211,Computer Systems Analysts,Computer Systems Analysts,20450.0,,,91210.0,86880.0,60570.0,70700.0,107140.0,128020.0
+U.S.,US,Educational Services,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,1990.0,,,96110.0,84100.0,54920.0,65180.0,110710.0,146900.0
+U.S.,US,Educational Services,15-1252,Software Developers,Software Developers,21040.0,,,104530.0,102170.0,62040.0,80450.0,125120.0,148650.0
+U.S.,US,Educational Services,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,1670.0,,,89040.0,87020.0,51060.0,67610.0,105230.0,128450.0
+U.S.,US,Educational Services,15-2031,Operations Research Analysts,Operations Research Analysts,6390.0,,,79540.0,70730.0,51070.0,61140.0,89890.0,115280.0
+U.S.,US,Educational Services,15-2051,Data Scientists,Data Scientists,6910.0,,,86920.0,79190.0,52020.0,64740.0,102100.0,132630.0
+U.S.,US,Health Care and Social Assistance,15-1211,Computer Systems Analysts,Computer Systems Analysts,30710.0,,,98190.0,94820.0,63280.0,77990.0,113590.0,137290.0
+U.S.,US,Health Care and Social Assistance,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,200.0,,,111250.0,100300.0,81270.0,87790.0,118590.0,155420.0
+U.S.,US,Health Care and Social Assistance,15-1252,Software Developers,Software Developers,12810.0,,,120050.0,116810.0,77390.0,96820.0,138650.0,164690.0
+U.S.,US,Health Care and Social Assistance,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,2580.0,,,101970.0,102300.0,59940.0,77070.0,121230.0,139490.0
+U.S.,US,Health Care and Social Assistance,15-2031,Operations Research Analysts,Operations Research Analysts,3730.0,,,79570.0,76330.0,49040.0,59980.0,94110.0,111290.0
+U.S.,US,Health Care and Social Assistance,15-2051,Data Scientists,Data Scientists,9650.0,,,92880.0,84390.0,53130.0,66260.0,109160.0,138990.0
+U.S.,US,"Arts, Entertainment, and Recreation",15-1211,Computer Systems Analysts,Computer Systems Analysts,580.0,,,83460.0,76280.0,48270.0,58930.0,103570.0,126400.0
+U.S.,US,"Arts, Entertainment, and Recreation",15-1252,Software Developers,Software Developers,1270.0,,,135320.0,123870.0,72020.0,87050.0,175110.0,209770.0
+U.S.,US,"Arts, Entertainment, and Recreation",15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,290.0,,,87650.0,60540.0,45820.0,49040.0,144080.0,167360.0
+U.S.,US,"Arts, Entertainment, and Recreation",15-2031,Operations Research Analysts,Operations Research Analysts,140.0,,,103500.0,97490.0,59420.0,65170.0,127090.0,184430.0
+U.S.,US,"Arts, Entertainment, and Recreation",15-2051,Data Scientists,Data Scientists,480.0,,,91730.0,81680.0,49980.0,64550.0,112710.0,153550.0
+U.S.,US,Accommodation and Food Services,15-1211,Computer Systems Analysts,Computer Systems Analysts,650.0,,,74420.0,65000.0,43080.0,49400.0,90860.0,119730.0
+U.S.,US,Accommodation and Food Services,15-1252,Software Developers,Software Developers,320.0,,,124450.0,120090.0,77630.0,88820.0,128530.0,154250.0
+U.S.,US,Accommodation and Food Services,15-2031,Operations Research Analysts,Operations Research Analysts,30.0,,,82480.0,92960.0,53020.0,64350.0,100510.0,103610.0
+U.S.,US,Accommodation and Food Services,15-2051,Data Scientists,Data Scientists,90.0,,,88340.0,78200.0,52180.0,60990.0,100980.0,136480.0
+U.S.,US,Other Services (except Public Administration),15-1211,Computer Systems Analysts,Computer Systems Analysts,2500.0,,,95870.0,91310.0,53020.0,70340.0,114700.0,140520.0
+U.S.,US,Other Services (except Public Administration),15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,90.0,,,110870.0,101300.0,65150.0,72400.0,127280.0,196240.0
+U.S.,US,Other Services (except Public Administration),15-1252,Software Developers,Software Developers,6300.0,,,123660.0,121580.0,74050.0,92770.0,150140.0,179470.0
+U.S.,US,Other Services (except Public Administration),15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,990.0,,,87730.0,86000.0,37200.0,61410.0,109050.0,130520.0
+U.S.,US,Other Services (except Public Administration),15-2031,Operations Research Analysts,Operations Research Analysts,830.0,,,82550.0,78470.0,50640.0,63780.0,101030.0,117080.0
+U.S.,US,Other Services (except Public Administration),15-2051,Data Scientists,Data Scientists,2340.0,,,94120.0,83840.0,49750.0,64500.0,111380.0,153000.0
+U.S.,US,"Federal, State, and Local Government, excluding State and Local Government Schools and Hospitals and the U.S. Postal Service (OEWS Designation)",15-1211,Computer Systems Analysts,Computer Systems Analysts,34340.0,,,94730.0,91510.0,57700.0,71920.0,112530.0,132850.0
+U.S.,US,"Federal, State, and Local Government, excluding State and Local Government Schools and Hospitals and the U.S. Postal Service (OEWS Designation)",15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,9970.0,,,120260.0,119450.0,75610.0,90880.0,145080.0,172060.0
+U.S.,US,"Federal, State, and Local Government, excluding State and Local Government Schools and Hospitals and the U.S. Postal Service (OEWS Designation)",15-1252,Software Developers,Software Developers,17520.0,,,103350.0,101980.0,68230.0,83850.0,120450.0,142000.0
+U.S.,US,"Federal, State, and Local Government, excluding State and Local Government Schools and Hospitals and the U.S. Postal Service (OEWS Designation)",15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,1840.0,,,100520.0,92350.0,62920.0,78500.0,130240.0,153280.0
+U.S.,US,"Federal, State, and Local Government, excluding State and Local Government Schools and Hospitals and the U.S. Postal Service (OEWS Designation)",15-2031,Operations Research Analysts,Operations Research Analysts,21100.0,,,88950.0,81700.0,57030.0,69260.0,97860.0,145600.0
+U.S.,US,"Federal, State, and Local Government, excluding State and Local Government Schools and Hospitals and the U.S. Postal Service (OEWS Designation)",15-2051,Data Scientists,Data Scientists,3470.0,,,89800.0,87070.0,57820.0,70550.0,100130.0,125030.0
+U.S.,US,Manufacturing,15-1211,Computer Systems Analysts,Computer Systems Analysts,27320.0,,,118390.0,112960.0,70380.0,87470.0,144260.0,173880.0
+U.S.,US,Manufacturing,15-1221,Computer and Information Research Scientists,Computer & Info Research Scientists,1310.0,,,183640.0,179230.0,128760.0,142000.0,206250.0,239200.0
+U.S.,US,Manufacturing,15-1252,Software Developers,Software Developers,150760.0,,,145500.0,138100.0,85130.0,105190.0,176880.0,210840.0
+U.S.,US,Manufacturing,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,16540.0,,,124140.0,123100.0,74810.0,93970.0,157260.0,183610.0
+U.S.,US,Manufacturing,15-2031,Operations Research Analysts,Operations Research Analysts,5080.0,,,112120.0,108410.0,67560.0,84930.0,132880.0,162040.0
+U.S.,US,Manufacturing,15-2051,Data Scientists,Data Scientists,8190.0,,,126110.0,121200.0,66980.0,89250.0,159190.0,196560.0
+U.S.,US,Retail Trade,15-1211,Computer Systems Analysts,Computer Systems Analysts,1990.0,,,108000.0,102860.0,44710.0,69990.0,138960.0,173840.0
+U.S.,US,Retail Trade,15-1252,Software Developers,Software Developers,10360.0,,,134920.0,131260.0,74490.0,101800.0,165620.0,190020.0
+U.S.,US,Retail Trade,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,1060.0,,,96540.0,95110.0,44660.0,62620.0,125250.0,149360.0
+U.S.,US,Retail Trade,15-2031,Operations Research Analysts,Operations Research Analysts,300.0,,,93590.0,85470.0,59710.0,69760.0,110670.0,146030.0
+U.S.,US,Retail Trade,15-2051,Data Scientists,Data Scientists,1950.0,,,126550.0,123480.0,51160.0,77480.0,168640.0,204980.0
+U.S.,US,Transportation and Warehousing,15-1211,Computer Systems Analysts,Computer Systems Analysts,3710.0,,,98280.0,93000.0,61490.0,76720.0,119700.0,136870.0
+U.S.,US,Transportation and Warehousing,15-1252,Software Developers,Software Developers,9960.0,,,134090.0,129890.0,83860.0,103310.0,160020.0,196250.0
+U.S.,US,Transportation and Warehousing,15-1253,Software Quality Assurance Analysts and Testers,Software QA Analysts & Testers,940.0,,,94510.0,87530.0,55040.0,68350.0,119030.0,139730.0
+U.S.,US,Transportation and Warehousing,15-2031,Operations Research Analysts,Operations Research Analysts,1720.0,,,86340.0,81240.0,48280.0,67050.0,102170.0,130480.0
+U.S.,US,Transportation and Warehousing,15-2051,Data Scientists,Data Scientists,1950.0,,,103640.0,84960.0,51220.0,65940.0,128890.0,175400.0

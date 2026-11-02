@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Raw BLS data is too large for GitHub (download from https://www.bls.gov/oes/tables.htm)
+data/*.xlsx
+data/*.zip
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
